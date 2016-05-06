@@ -1,0 +1,19 @@
+{
+  "name": "jspm-plugin-babel-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "jspm": {
+    "name": "jspm-plugin-babel-10",
+    "main": "index.js",
+    "dependencies": {
+      "plugin-babel": "npm:systemjs-plugin-babel@0.0.9"
+    },
+    "devDependencies": {}
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
